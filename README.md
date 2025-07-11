@@ -16,11 +16,7 @@ A desktop application that lets users tag and search local image folders (and th
 
 ## Installation
 
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/localbooru.git
-cd localbooru
-```
+1. Clone this repository.
 
 2. Install dependencies:
 ```bash
