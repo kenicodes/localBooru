@@ -1,2 +1,2 @@
 # localBooru
-A local application for sorting your image gallery with a image booru style tag system.
+A desktop application that lets users tag and search local image folders (and their sub-folders) like a Booru site.
